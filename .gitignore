@@ -107,3 +107,5 @@ ENV/
 Sentiment Analysis/aclImdb_v1.tar.gz
 Sentiment Analysis/aclImdb/
 cache/
+.empty/
+data/
